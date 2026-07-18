@@ -4,7 +4,7 @@ Moja ulica is a Slovenian web app that helps residents turn an idea for improvin
 
 ## Live demo
 
-Try the app at [moja-ulica.web.bilt.me](https://b468f1ec-f05c-45dd-b220-fe3b9227978f.web.bilt.me](https://try.myiosapp.link/V05A2mc).
+Try the app at (https://try.myiosapp.link/V05A2mc).
 
 ## What it does
 
